@@ -3,8 +3,13 @@ import os
 class Config(object):
     API_ID = int(os.environ.get("API_ID", "6213538"))
     API_HASH = os.environ.get("API_HASH", "8ce3522bd21cc937eee4c68813d501d5")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
-    STRING_SESSION = os.environ.get("STRING_SESSION", None)
+    BOT_TOKEN = os.environ.get(6296026483:AAGtV7hmJ-RGzekvjwng1VCO2oYJMUrGJ2s)
+    STRING_SESSION = os.environ.get(This Is Your thanos Telethon StringSession
+
+
+1BVtsOIABuxiZhe3llafhC8-vxL8sPedsbriDyFBqDmgDohjETIJtaGXD3nuRuFj1srekhXDnH2upF3DYoJH4hPdNc_XddCoN_rrX-f2wokueU3UWihTKpHsej47INzObjuztDrQd0pkFdMTXNICeKdjmQQj2jPjVrcFU0s1W130zA4kc6BEdpUT47mz0FJYrZ5qTdEow4B71t2IwZSrWcV2OUq-iOmX8LY5YKRhyCOfn2nBpwq-aZEa1iHhSQ2pIu4vOmrfE5VlucrKDjXaJaRnayVhakftbnIpiSEkm8wBYIxs6QX9W9UvbIKJaxVvqjKI3OFtTPxTEj-H0iHB0wuCWsZUKqgk=
+
+Regards - @thanosbot_chats)
     MANAGEMENT_MODE = os.environ.get("MANAGEMENT_MODE", None)
     HEROKU_MODE = os.environ.get("HEROKU_MODE", None)
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
